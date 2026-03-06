@@ -17,4 +17,5 @@ frontend-projects: <br>
 ├── todo-app<br>
 ├── weather-app<br>
 ├── calculator<br>
+├──URL QR Code<br>
 └── quiz-app
