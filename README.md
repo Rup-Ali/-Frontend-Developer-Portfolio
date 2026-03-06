@@ -2,8 +2,8 @@
 Personal portfolio website built using HTML, CSS, and JavaScript.
 
 ## Features
-- Responsive design
-- Projects showcase
+- Responsive design<br>
+- Projects showcase<br>
 - Contact section
 
 ## Technologies
@@ -12,10 +12,9 @@ CSS
 JavaScript
 
 ## Example GitHub Portfolio Structure
-frontend-projects
-│
-├── snake-game
-├── todo-app
-├── weather-app
-├── calculator
+frontend-projects: <br>
+├── snake-game<br>
+├── todo-app<br>
+├── weather-app<br>
+├── calculator<br>
 └── quiz-app
