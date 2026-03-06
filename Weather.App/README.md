@@ -19,11 +19,10 @@ A simple weather application built using HTML, CSS, and JavaScript that fetches 
 
 ## Project Structure
 
-weather-app
-│
-├── index.html
-├── style.css
-├── script.js
+weather-app:<br>
+├── index.html<br>
+├── style.css<br>
+├── script.js<br>
 └── README.md
 
 ## How to Run
@@ -39,4 +38,5 @@ git clone https://github.com/yourusername/weather-app.git
 ## Author
 
 Rupali Samantaray
+
 Frontend Developer
