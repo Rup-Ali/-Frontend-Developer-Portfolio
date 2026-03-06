@@ -27,9 +27,7 @@ weather-app:<br>
 
 ## How to Run
 
-1. Clone the repository
-
-git clone https://github.com/Rup-Ali/Frontend-Developer-Portfolio/tree/main/Weather.App
+1. Clone the repository git clone https://github.com/Rup-Ali/Frontend-Developer-Portfolio/tree/main/Weather.App
 
 2. Open index.html in your browser
 
@@ -40,4 +38,5 @@ git clone https://github.com/Rup-Ali/Frontend-Developer-Portfolio/tree/main/Weat
 Rupali Samantaray
 
 Frontend Developer
+
 
