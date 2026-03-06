@@ -29,7 +29,7 @@ weather-app:<br>
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/Rup-Ali/Frontend-Developer-Portfolio/tree/main/Weather.App
 
 2. Open index.html in your browser
 
@@ -40,3 +40,4 @@ git clone https://github.com/yourusername/weather-app.git
 Rupali Samantaray
 
 Frontend Developer
+
