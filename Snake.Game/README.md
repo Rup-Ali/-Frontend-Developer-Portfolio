@@ -5,10 +5,10 @@ The player controls the snake using keyboard arrow keys to eat food, grow longer
 
 📌 Features
 
-✔ Classic Snake Game mechanics<br>
-✔ Keyboard controls (Arrow keys)<br>
-✔ Random food generation<br>
-✔ Score tracking<br>
+✔ Classic Snake Game mechanics
+✔ Keyboard controls (Arrow keys)
+✔ Random food generation
+✔ Score tracking
 ✔ Smooth gameplay using JavaScript Canvas
 
 🛠 Technologies Used
@@ -22,10 +22,11 @@ JavaScript (ES6) – Game logic
 Canvas API – Rendering the game board
 
 📂 Project Structure
-snake-game<br>
-├── index.html<br>
-├── style.css<br>
-├── script.js<br>
+snake-game
+│
+├── index.html
+├── style.css
+├── script.js
 └── README.md
 🎮 How to Play
 
@@ -53,9 +54,24 @@ git clone https://github.com/Rup-Ali/-Frontend-Developer-Portfolio/tree/main/Sna
 
 Open the project folder
 
-Run the game by opening: index.html in your browser.
+Run the game by opening:
+
+index.html
+
+in your browser.
 
 
+📈 Future Improvements
 
-👩‍💻 Author:<br>
-Rupali Samantaray<br>Frontend Stack Developer
+Add Game Over screen
+
+Add High Score system
+
+Add Sound effects
+
+Add Mobile touch controls
+
+👩‍💻 Author
+
+Rupali Samantaray
+Frontend Stack Developer
